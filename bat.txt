@@ -1,2 +1,10 @@
-this should only be in feature1 branch 
+
+insert something else 
+
+
+this should only 
+
+insert something in master 
+
+be in feature1 branch 
 
