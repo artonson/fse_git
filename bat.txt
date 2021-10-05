@@ -1,10 +1,9 @@
-
 insert something else 
 
+this gets inserted in the feature2
 
 this should only 
 
 insert something in master 
 
 be in feature1 branch 
-
